@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{C0D8066A-E8FA-4E31-9DB8-DAF23B1C0238}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestRunner/Algo.cs">
+    <Files>
+      <File FileName="TestRunner/Program.cs" Line="33" Column="41" />
+      <File FileName="TestRunner/Algo.cs" Line="15" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../TestRunner/Program.cs" line="23" offsetX="584" offsetY="314" expression="year" liveUpdate="False" />
+    <Watch file="../../../TestRunner/Algo.cs" line="74" offsetX="629" offsetY="1056" expression="counter" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.TestRunner PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
