@@ -1,8 +1,11 @@
-﻿<Properties StartupConfiguration="{C0D8066A-E8FA-4E31-9DB8-DAF23B1C0238}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TestRunner/Algo.cs">
+﻿<Properties StartupConfiguration="{C0D8066A-E8FA-4E31-9DB8-DAF23B1C0238}|Default" GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestRunner Status">
     <Files>
-      <File FileName="TestRunner/Program.cs" Line="33" Column="41" />
-      <File FileName="TestRunner/Algo.cs" Line="15" Column="51" />
+      <File FileName="TestRunner/Program.cs" Line="11" Column="69" />
+      <File FileName="TestRunner/Algo.cs" Line="29" Column="169" />
+      <File FileName="TestRunner/Models/Graph.cs" Line="6" Column="23" />
+      <File FileName="TestRunner.UnitTest/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="TestRunner Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

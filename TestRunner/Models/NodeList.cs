@@ -1,3 +1,5 @@
+﻿using System.Collections.ObjectModel;
+
 namespace Models
 {
     /*
@@ -14,22 +16,16 @@ namespace Models
         set_edge_value(G, x, y, v): sets the value associated with the edge (x, y) to v.
     */
 
-    public class Graph
+    public class NodeList<T> : Collection<Node<T>>
     {
-        public bool IsDirected;
-        public bool IsWeighted;
-        public int Weight { get; set; }
-                
-    }
+        public NodeList() : base() { }
+        public NodeList(int size)
+        {
+            for (var i = 0; i < size; i++)
+            {
+                base.Items.Add(default(Node<T>));
+            }
+        }
 
-    public class Edge
-    {
-
-    }
-
-    public class Vertex
-    {
-        public int Value{get;set;}
-        public List<Edge> Edges{get;set;}
     }
 }
