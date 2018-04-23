@@ -1,0 +1,14 @@
+/Users/terrancesmith/Projects/TestRunner/TestRunner.UnitTest/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/terrancesmith/Projects/TestRunner/TestRunner.UnitTest/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/terrancesmith/Projects/TestRunner/TestRunner.UnitTest/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/terrancesmith/Projects/TestRunner/TestRunner.UnitTest/bin/Debug/netcoreapp2.0/TestRunner.UnitTest.deps.json
+/Users/terrancesmith/Projects/TestRunner/TestRunner.UnitTest/bin/Debug/netcoreapp2.0/TestRunner.UnitTest.runtimeconfig.json
+/Users/terrancesmith/Projects/TestRunner/TestRunner.UnitTest/bin/Debug/netcoreapp2.0/TestRunner.UnitTest.runtimeconfig.dev.json
+/Users/terrancesmith/Projects/TestRunner/TestRunner.UnitTest/bin/Debug/netcoreapp2.0/TestRunner.UnitTest.dll
+/Users/terrancesmith/Projects/TestRunner/TestRunner.UnitTest/bin/Debug/netcoreapp2.0/TestRunner.UnitTest.pdb
+/Users/terrancesmith/Projects/TestRunner/TestRunner.UnitTest/obj/Debug/netcoreapp2.0/TestRunner.UnitTest.csprojResolveAssemblyReference.cache
+/Users/terrancesmith/Projects/TestRunner/TestRunner.UnitTest/obj/Debug/netcoreapp2.0/TestRunner.UnitTest.csproj.CoreCompileInputs.cache
+/Users/terrancesmith/Projects/TestRunner/TestRunner.UnitTest/obj/Debug/netcoreapp2.0/TestRunner.UnitTest.AssemblyInfoInputs.cache
+/Users/terrancesmith/Projects/TestRunner/TestRunner.UnitTest/obj/Debug/netcoreapp2.0/TestRunner.UnitTest.AssemblyInfo.cs
+/Users/terrancesmith/Projects/TestRunner/TestRunner.UnitTest/obj/Debug/netcoreapp2.0/TestRunner.UnitTest.dll
+/Users/terrancesmith/Projects/TestRunner/TestRunner.UnitTest/obj/Debug/netcoreapp2.0/TestRunner.UnitTest.pdb
