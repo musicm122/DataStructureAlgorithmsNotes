@@ -7,8 +7,8 @@ namespace TestRunner
     class Program
     {
         static void Main (string[] args)
-        {                    
-            Console.WriteLine(Problems.MangoSellerProblem());
+        {
+            Console.WriteLine (Problems.MangoSellerProblemBreathFirst ());
         }
 
         static void SumTest2 ()

@@ -5,6 +5,11 @@ using System.Linq;
 
 namespace TestRunner
 {
+
+   }
+
+
+
     public static class Sorts
     {
         public static int[] QuickSort (int[] items)
@@ -28,7 +33,7 @@ namespace TestRunner
 
     public static class Problems
     {
-        public static string MangoSellerProblem ()
+        public static string MangoSellerProblemBreathFirst ()
         {
             bool PersonIsSeller (string personName) => personName[personName.Length - 1] == 'm';
             Dictionary<string, string[]> GetPersonGraph ()
@@ -73,7 +78,7 @@ namespace TestRunner
                     return currentPerson;
                 }
                 else if (!searched.Contains (currentPerson))
-                {                    
+                {
                     searched.Add (currentPerson);
                     foreach (var person in relationsGraph[currentPerson])
                     {
@@ -87,6 +92,23 @@ namespace TestRunner
 
     public static class Algo
     {
+        public static void Dijkstra ()
+        {
+            Dictionary<string, string[]> GetPersonGraph ()
+            {
+                var graph = new Dictionary<string,> ();
+                graph.Add ("start", new string[] { "alice", "bob", "claire" });
+                graph.Add ("bob", new string[] { "anuj", "peggy" });
+                graph.Add ("alice", new string[] { "peggy" });
+                graph.Add ("claire", new string[] { "thom", "jonny" });
+                graph.Add ("anuj", new string[0]);
+                graph.Add ("peggy", new string[0]);
+                graph.Add ("thom", new string[0]);
+                graph.Add ("jonny", new string[0]);
+                return graph;
+            }
+
+        }
 
         public static int GetFibonacciDigit (int fibDigit) => (fibDigit <= 1) ? fibDigit : GetFibonacciDigit (fibDigit - 1) + GetFibonacciDigit (fibDigit - 2);
 
